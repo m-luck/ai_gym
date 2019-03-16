@@ -9,6 +9,8 @@ verify_ssl = true
 gym = "*"
 torch = "*"
 torchvision = "*"
+jupyterlab = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
